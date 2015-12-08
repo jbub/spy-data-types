@@ -1,0 +1,11 @@
+# os
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# python
+__pycache__/
+*.py[dco]
+*.pot
+*.egg
+*.egg-info
