@@ -14,7 +14,8 @@ id(a) # >>> 4412808440
 
 # returns whether object is an instance of class
 isinstance(a, int) # >>> True
-isinstance(b, str) # >>> False
+isinstance(a, str) # >>> False
+isinstance(b, str) # >>> True
 
 
 # to check if one class is subclass of another you can use issubclass
